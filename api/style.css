@@ -1,0 +1,25 @@
+.id{
+    width: 43px;
+    text-align: center;
+}
+
+.name{
+    width: 170px;
+    text-align: center;
+}
+
+.chipID{
+    width: 74px;
+    text-align: center;
+}
+
+.time{
+    width: 147px;
+    text-align: center;
+}
+
+.ng-scope{
+    width: 590px;
+    text-align: center;
+    margin: 0 auto;
+}
